@@ -1,3 +1,6 @@
+
+![Banner](/assets/img/Banner.png)
+
 - 👋 Hi, I’m Sebastian Ghafafian
 - 👀 I’m currently building my career in data science and statistics. 
 - 🌱 I’m currently focusing of advancing my skills in Pytorch and SQL.
